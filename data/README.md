@@ -2,6 +2,9 @@
 
 ## Folders
 
+source data:
+kaggle....
+
 ### raw
 
 original, unmodified data after downloading, scraping, etc.
